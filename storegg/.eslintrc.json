@@ -29,6 +29,9 @@
         "no-unused-vars": 0,
         "no-undef": 0,
         "import/no-extraneous-dependencies": 0,
-        "jsx-a11y/label-has-associated-control": 0
+        "jsx-a11y/label-has-associated-control": 0,
+        "jsx-a11y/anchor-is-valid": 0,
+        "jsx-a11y/alt-text": 0,
+        "jsx-a11y/no-redundant-roles": 0
     }
 }
